@@ -11,3 +11,4 @@ Gustavo Teodoro Gabilan
 - [Calculo da média](https://scratch.mit.edu/projects/881964825/)
 - [Conversão de temperatura](https://scratch.mit.edu/projects/882612327/)
 - [Regra de tres](https://scratch.mit.edu/projects/882639458/)
+- [Calculo de Horas Tecnicas](https://scratch.mit.edu/projects/884973175/)
