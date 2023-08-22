@@ -7,3 +7,5 @@
 Introdução a lógica de programação com Scratch
 ## Autor
 Gustavo Teodoro Gabilan
+## Projetos
+[Calculo d média](https://scratch.mit.edu/projects/881964825/)
