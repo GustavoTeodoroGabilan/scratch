@@ -12,3 +12,7 @@ Gustavo Teodoro Gabilan
 - [Conversão de temperatura](https://scratch.mit.edu/projects/882612327/)
 - [Regra de tres](https://scratch.mit.edu/projects/882639458/)
 - [Calculo de Horas Tecnicas](https://scratch.mit.edu/projects/884973175/)
+- [Calculo de milhas em km](https://scratch.mit.edu/projects/885324826)
+- [Calculo de lucro](https://scratch.mit.edu/projects/885325210)
+- [Libras para Kilos](https://scratch.mit.edu/projects/885325493)
+- [Calculo de vendas](https://scratch.mit.edu/projects/885325781)
