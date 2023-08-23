@@ -18,4 +18,4 @@ Gustavo Teodoro Gabilan
 - [Calculo de vendas](https://scratch.mit.edu/projects/885325781)
 
 ## A Horas do Código
-![Certificado]()
+![Certificado](https://github.com/GustavoTeodoroGabilan/scratch/blob/main/assets/icons/Certificado.jpg)
