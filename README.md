@@ -17,6 +17,7 @@ Gustavo Teodoro Gabilan
 - [Libras para Kilos](https://scratch.mit.edu/projects/885325493)
 - [Calculo de vendas](https://scratch.mit.edu/projects/885325781)
 - [Horas Tecnicas](https://scratch.mit.edu/projects/886848632)
+- [Gasolina x Etanol](https://scratch.mit.edu/projects/887236056)
 
 ## A Horas do Código
 ![Certificado](https://github.com/GustavoTeodoroGabilan/scratch/blob/main/assets/icons/Certificado.jpg)
