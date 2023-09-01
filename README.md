@@ -18,6 +18,7 @@ Gustavo Teodoro Gabilan
 - [Calculo de vendas](https://scratch.mit.edu/projects/885325781)
 - [Horas Tecnicas](https://scratch.mit.edu/projects/886848632)
 - [Gasolina x Etanol](https://scratch.mit.edu/projects/887236056)
+- [Calculo de IMC](https://scratch.mit.edu/projects/888436084)
 
 ## A Horas do Código
 ![Certificado](https://github.com/GustavoTeodoroGabilan/scratch/blob/main/assets/icons/Certificado.jpg)
