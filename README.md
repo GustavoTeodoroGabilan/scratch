@@ -20,6 +20,7 @@ Gustavo Teodoro Gabilan
 - [Gasolina x Etanol](https://scratch.mit.edu/projects/887236056)
 - [Calculo de IMC](https://scratch.mit.edu/projects/888436084)
 - [Verificar Votos](https://scratch.mit.edu/projects/889665199)
+- [Space Invaders](https://scratch.mit.edu/projects/896358768)
 
 ## A Horas do Código
 ![Certificado](https://github.com/GustavoTeodoroGabilan/scratch/blob/main/assets/icons/Certificado.jpg)
